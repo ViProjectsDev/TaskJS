@@ -1,0 +1,19 @@
+task:
+
+1. Declare two variables:
+2. Assigns the value to:
+3. Copy the value from to:
+4. Show the value of use:
+
+answer:
+
+1. let admin, nome;
+2. nome = "virna"
+3. admin="nome";
+4. alert (admin);
+
+why?
+
+variables: let;
+value: in parentheses;
+alert: show answer; 
